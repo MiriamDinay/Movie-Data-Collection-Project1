@@ -45,7 +45,7 @@ Download the following four files from https://datasets.imdbws.com/, extract the
 ### 4. Run
 
 ```bash
-jupyter notebook Movie_Data_Collection_-_Part_1.ipynb
+jupyter notebook notebook.ipynb
 ```
 
 Run the cells in order. On completion, `dataset.csv` will be created with 5,000 movies.
